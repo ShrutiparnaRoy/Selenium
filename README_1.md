@@ -28,8 +28,13 @@ This repository contains the Selenium installation, configuration, and verificat
 **Tools & Technologies Used**
 
 Python 3.12.0 :	Core programming language
+
 Selenium 4.21.0 :	Web automation framework
+
 WebDriver Manager :	Automatic browser driver management
+
 VS Code :	Primary IDE and code editor
+
 pip :	Package management and dependency handling
+
 venv :	Virtual environment for project isolation
