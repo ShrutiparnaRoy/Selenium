@@ -6,6 +6,7 @@
 **Group Number:** 57
 
 **🔗 Video Demonstration Link:** https://drive.google.com/file/d/19hOJ0k892PcuZUEmKOoKnbX5cSiRINu3/view?usp=drive_link
+**🔗 Document Link :** https://drive.google.com/file/d/1tcPpOceEIhr-xhX_Fu9S-ASL8F4msaTN/view?usp=drive_link
 
 **Overview**
 This repository contains the Selenium installation, configuration, and verification tasks performed as part of the Web Automation Lab assignment.
